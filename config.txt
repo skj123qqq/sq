@@ -1,6 +1,0 @@
-﻿token=NDY3Njc1NTE4NDAyMTY2ODA1.XTp-pA.MH5ZDIsjeaW1x7OwBBJ-s8Tp5Bc
-owner=280319019528093696
-prefix= ss
-game= sspplay
-stayinchannel=true
-songinstatus=true 
